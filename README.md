@@ -6,8 +6,8 @@ Requirements:
 3. Setlist.fm API key
 
 Guide:
-1. Pick a musical artist and fubd their MusicBrainz ID (https://musicbrainz.org/doc/MusicBrainz_Identifier)
-2. Prepare your Spotify API key and Setlist.fm API key
+1. Pick a musical artist and find their MusicBrainz ID (https://musicbrainz.org/doc/MusicBrainz_Identifier)
+2. Prepare your Spotify API key and Setlist.fm API key.
 3. Enter the information into concert_creator.py
 4. Run concert_creator.py on the command line.
 5. Authorize the program to create playlists on your account when prompted.
